@@ -1,0 +1,3 @@
+---
+path: "{{ ansible_env.HOME }}/test.txt"
+content: "Test content"
